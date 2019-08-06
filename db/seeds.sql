@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Big Mac', 0), ('The Baconator', 0), ('The Double Whopper', 0);
