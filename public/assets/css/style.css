@@ -1,0 +1,38 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.jumbotron {
+  background-color: sandybrown;
+}
+
+body { 
+  background-color: salmon;
+  background-image: url('../images/burger.gif');
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+}
+
+.display-3 {
+  font-family: 'Beth Ellen', cursive;
+}
+
+
